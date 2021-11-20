@@ -1,0 +1,14 @@
+.menu{
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.item{
+    min-width: 20%;
+    border: 2px solid cadetblue;
+    padding: 10px;
+    box-shadow: 10px 10px 10px 10px rgb(40, 131, 167);
+    margin: 10px;
+    text-align: center;
+}
